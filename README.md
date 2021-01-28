@@ -4,8 +4,8 @@
 # Fat_And_Furious
 A 2D action game made with Unity.
 
-A <b>zombie apocalypse<b> just happened at an <b>anime convention<b> and made people turn into <b><i>fat zombies</b></i>.
-  Use more than <b>10 different weapons<b> to blast through various <b>unique enemies</b> and an (unexpected) final boss.
+A <b>zombie apocalypse</b> just happened at an <b>anime convention</b> and made people turn into <b><i>fat zombies</b></i>.
+  Use more than <b>10 different weapons</b> to blast through various <b>unique enemies</b> and an (unexpected) final boss.
 
 
 <b>#Talking Design#</b>
