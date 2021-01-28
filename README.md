@@ -12,8 +12,8 @@ A <b>zombie apocalypse</b> just happened at an <b>anime convention</b> and made 
 The game is programmed in a way that <b>every enemy(including the boss), collectible and weapon type</b> can have its behavior changed in the <b>Unity inspector</b>, with just a number change and checkbox click, thus making it easier for a game designer/level designer to mix and tweak a level <b>without the need of touching the code.</b>
 
 <img src="https://i.imgur.com/S1TWkiK.png">
-<b><i>Unity inspector showing what can be changed in the enemy behavior</b></i>
-<br>
+<b><i>Unity inspector showing what can be changed in the enemy behavior</b></i><br/>
+
 
 The game counts with 1 weapon with <b>10 different bullet types</b>, every bullet distincts itself from the others, ranging from area effects, more damage, faster shooting, slowing the enemies' movement speed, etc.
 
