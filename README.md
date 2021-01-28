@@ -13,7 +13,7 @@ The game is programmed in a way that <b>every enemy(including the boss), collect
 
 <img src="https://i.imgur.com/S1TWkiK.png">
 <b><i>Unity inspector showing what can be changed in the enemy behavior</b></i>
-
+<br>
 
 The game counts with 1 weapon with <b>10 different bullet types</b>, every bullet distincts itself from the others, ranging from area effects, more damage, faster shooting, slowing the enemies' movement speed, etc.
 
