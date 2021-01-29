@@ -1,0 +1,5420 @@
+fileFormatVersion: 2
+guid: cfbd6aea04f16f84aa0d6cecd7483e61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: PlayStation 3 - Persona 5 - Battle JPN_0
+  - first:
+      213: 21300002
+    second: PlayStation 3 - Persona 5 - Battle JPN_1
+  - first:
+      213: 21300004
+    second: PlayStation 3 - Persona 5 - Battle JPN_2
+  - first:
+      213: 21300006
+    second: PlayStation 3 - Persona 5 - Battle JPN_3
+  - first:
+      213: 21300008
+    second: PlayStation 3 - Persona 5 - Battle JPN_4
+  - first:
+      213: 21300010
+    second: PlayStation 3 - Persona 5 - Battle JPN_5
+  - first:
+      213: 21300012
+    second: PlayStation 3 - Persona 5 - Battle JPN_6
+  - first:
+      213: 21300014
+    second: PlayStation 3 - Persona 5 - Battle JPN_7
+  - first:
+      213: 21300016
+    second: PlayStation 3 - Persona 5 - Battle JPN_8
+  - first:
+      213: 21300018
+    second: PlayStation 3 - Persona 5 - Battle JPN_9
+  - first:
+      213: 21300020
+    second: PlayStation 3 - Persona 5 - Battle JPN_10
+  - first:
+      213: 21300022
+    second: PlayStation 3 - Persona 5 - Battle JPN_11
+  - first:
+      213: 21300024
+    second: PlayStation 3 - Persona 5 - Battle JPN_12
+  - first:
+      213: 21300026
+    second: PlayStation 3 - Persona 5 - Battle JPN_13
+  - first:
+      213: 21300028
+    second: PlayStation 3 - Persona 5 - Battle JPN_14
+  - first:
+      213: 21300030
+    second: PlayStation 3 - Persona 5 - Battle JPN_15
+  - first:
+      213: 21300032
+    second: PlayStation 3 - Persona 5 - Battle JPN_16
+  - first:
+      213: 21300034
+    second: PlayStation 3 - Persona 5 - Battle JPN_17
+  - first:
+      213: 21300036
+    second: PlayStation 3 - Persona 5 - Battle JPN_18
+  - first:
+      213: 21300038
+    second: PlayStation 3 - Persona 5 - Battle JPN_19
+  - first:
+      213: 21300040
+    second: PlayStation 3 - Persona 5 - Battle JPN_20
+  - first:
+      213: 21300042
+    second: PlayStation 3 - Persona 5 - Battle JPN_21
+  - first:
+      213: 21300044
+    second: PlayStation 3 - Persona 5 - Battle JPN_22
+  - first:
+      213: 21300046
+    second: PlayStation 3 - Persona 5 - Battle JPN_23
+  - first:
+      213: 21300048
+    second: PlayStation 3 - Persona 5 - Battle JPN_24
+  - first:
+      213: 21300050
+    second: PlayStation 3 - Persona 5 - Battle JPN_25
+  - first:
+      213: 21300052
+    second: PlayStation 3 - Persona 5 - Battle JPN_26
+  - first:
+      213: 21300054
+    second: PlayStation 3 - Persona 5 - Battle JPN_27
+  - first:
+      213: 21300056
+    second: PlayStation 3 - Persona 5 - Battle JPN_28
+  - first:
+      213: 21300058
+    second: PlayStation 3 - Persona 5 - Battle JPN_29
+  - first:
+      213: 21300060
+    second: PlayStation 3 - Persona 5 - Battle JPN_30
+  - first:
+      213: 21300062
+    second: PlayStation 3 - Persona 5 - Battle JPN_31
+  - first:
+      213: 21300064
+    second: PlayStation 3 - Persona 5 - Battle JPN_32
+  - first:
+      213: 21300066
+    second: PlayStation 3 - Persona 5 - Battle JPN_33
+  - first:
+      213: 21300068
+    second: PlayStation 3 - Persona 5 - Battle JPN_34
+  - first:
+      213: 21300070
+    second: PlayStation 3 - Persona 5 - Battle JPN_35
+  - first:
+      213: 21300072
+    second: PlayStation 3 - Persona 5 - Battle JPN_36
+  - first:
+      213: 21300074
+    second: PlayStation 3 - Persona 5 - Battle JPN_37
+  - first:
+      213: 21300076
+    second: PlayStation 3 - Persona 5 - Battle JPN_38
+  - first:
+      213: 21300078
+    second: PlayStation 3 - Persona 5 - Battle JPN_39
+  - first:
+      213: 21300080
+    second: PlayStation 3 - Persona 5 - Battle JPN_40
+  - first:
+      213: 21300082
+    second: PlayStation 3 - Persona 5 - Battle JPN_41
+  - first:
+      213: 21300084
+    second: PlayStation 3 - Persona 5 - Battle JPN_42
+  - first:
+      213: 21300086
+    second: PlayStation 3 - Persona 5 - Battle JPN_43
+  - first:
+      213: 21300088
+    second: PlayStation 3 - Persona 5 - Battle JPN_44
+  - first:
+      213: 21300090
+    second: PlayStation 3 - Persona 5 - Battle JPN_45
+  - first:
+      213: 21300092
+    second: PlayStation 3 - Persona 5 - Battle JPN_46
+  - first:
+      213: 21300094
+    second: PlayStation 3 - Persona 5 - Battle JPN_47
+  - first:
+      213: 21300096
+    second: PlayStation 3 - Persona 5 - Battle JPN_48
+  - first:
+      213: 21300098
+    second: PlayStation 3 - Persona 5 - Battle JPN_49
+  - first:
+      213: 21300100
+    second: PlayStation 3 - Persona 5 - Battle JPN_50
+  - first:
+      213: 21300102
+    second: PlayStation 3 - Persona 5 - Battle JPN_51
+  - first:
+      213: 21300104
+    second: PlayStation 3 - Persona 5 - Battle JPN_52
+  - first:
+      213: 21300106
+    second: PlayStation 3 - Persona 5 - Battle JPN_53
+  - first:
+      213: 21300108
+    second: PlayStation 3 - Persona 5 - Battle JPN_54
+  - first:
+      213: 21300110
+    second: PlayStation 3 - Persona 5 - Battle JPN_55
+  - first:
+      213: 21300112
+    second: PlayStation 3 - Persona 5 - Battle JPN_56
+  - first:
+      213: 21300114
+    second: PlayStation 3 - Persona 5 - Battle JPN_57
+  - first:
+      213: 21300116
+    second: PlayStation 3 - Persona 5 - Battle JPN_58
+  - first:
+      213: 21300118
+    second: PlayStation 3 - Persona 5 - Battle JPN_59
+  - first:
+      213: 21300120
+    second: PlayStation 3 - Persona 5 - Battle JPN_60
+  - first:
+      213: 21300122
+    second: PlayStation 3 - Persona 5 - Battle JPN_61
+  - first:
+      213: 21300124
+    second: PlayStation 3 - Persona 5 - Battle JPN_62
+  - first:
+      213: 21300126
+    second: PlayStation 3 - Persona 5 - Battle JPN_63
+  - first:
+      213: 21300128
+    second: PlayStation 3 - Persona 5 - Battle JPN_64
+  - first:
+      213: 21300130
+    second: PlayStation 3 - Persona 5 - Battle JPN_65
+  - first:
+      213: 21300132
+    second: PlayStation 3 - Persona 5 - Battle JPN_66
+  - first:
+      213: 21300134
+    second: PlayStation 3 - Persona 5 - Battle JPN_67
+  - first:
+      213: 21300136
+    second: PlayStation 3 - Persona 5 - Battle JPN_68
+  - first:
+      213: 21300138
+    second: PlayStation 3 - Persona 5 - Battle JPN_69
+  - first:
+      213: 21300140
+    second: PlayStation 3 - Persona 5 - Battle JPN_70
+  - first:
+      213: 21300142
+    second: PlayStation 3 - Persona 5 - Battle JPN_71
+  - first:
+      213: 21300144
+    second: PlayStation 3 - Persona 5 - Battle JPN_72
+  - first:
+      213: 21300146
+    second: PlayStation 3 - Persona 5 - Battle JPN_73
+  - first:
+      213: 21300148
+    second: PlayStation 3 - Persona 5 - Battle JPN_74
+  - first:
+      213: 21300150
+    second: PlayStation 3 - Persona 5 - Battle JPN_75
+  - first:
+      213: 21300152
+    second: PlayStation 3 - Persona 5 - Battle JPN_76
+  - first:
+      213: 21300154
+    second: PlayStation 3 - Persona 5 - Battle JPN_77
+  - first:
+      213: 21300156
+    second: PlayStation 3 - Persona 5 - Battle JPN_78
+  - first:
+      213: 21300158
+    second: PlayStation 3 - Persona 5 - Battle JPN_79
+  - first:
+      213: 21300160
+    second: PlayStation 3 - Persona 5 - Battle JPN_80
+  - first:
+      213: 21300162
+    second: PlayStation 3 - Persona 5 - Battle JPN_81
+  - first:
+      213: 21300164
+    second: PlayStation 3 - Persona 5 - Battle JPN_82
+  - first:
+      213: 21300166
+    second: PlayStation 3 - Persona 5 - Battle JPN_83
+  - first:
+      213: 21300168
+    second: PlayStation 3 - Persona 5 - Battle JPN_84
+  - first:
+      213: 21300170
+    second: PlayStation 3 - Persona 5 - Battle JPN_85
+  - first:
+      213: 21300172
+    second: PlayStation 3 - Persona 5 - Battle JPN_86
+  - first:
+      213: 21300174
+    second: PlayStation 3 - Persona 5 - Battle JPN_87
+  - first:
+      213: 21300176
+    second: PlayStation 3 - Persona 5 - Battle JPN_88
+  - first:
+      213: 21300178
+    second: PlayStation 3 - Persona 5 - Battle JPN_89
+  - first:
+      213: 21300180
+    second: PlayStation 3 - Persona 5 - Battle JPN_90
+  - first:
+      213: 21300182
+    second: PlayStation 3 - Persona 5 - Battle JPN_91
+  - first:
+      213: 21300184
+    second: PlayStation 3 - Persona 5 - Battle JPN_92
+  - first:
+      213: 21300186
+    second: PlayStation 3 - Persona 5 - Battle JPN_93
+  - first:
+      213: 21300188
+    second: PlayStation 3 - Persona 5 - Battle JPN_94
+  - first:
+      213: 21300190
+    second: PlayStation 3 - Persona 5 - Battle JPN_95
+  - first:
+      213: 21300192
+    second: PlayStation 3 - Persona 5 - Battle JPN_96
+  - first:
+      213: 21300194
+    second: PlayStation 3 - Persona 5 - Battle JPN_97
+  - first:
+      213: 21300196
+    second: PlayStation 3 - Persona 5 - Battle JPN_98
+  - first:
+      213: 21300198
+    second: PlayStation 3 - Persona 5 - Battle JPN_99
+  - first:
+      213: 21300200
+    second: PlayStation 3 - Persona 5 - Battle JPN_100
+  - first:
+      213: 21300202
+    second: PlayStation 3 - Persona 5 - Battle JPN_101
+  - first:
+      213: 21300204
+    second: PlayStation 3 - Persona 5 - Battle JPN_102
+  - first:
+      213: 21300206
+    second: PlayStation 3 - Persona 5 - Battle JPN_103
+  - first:
+      213: 21300208
+    second: PlayStation 3 - Persona 5 - Battle JPN_104
+  - first:
+      213: 21300210
+    second: PlayStation 3 - Persona 5 - Battle JPN_105
+  - first:
+      213: 21300212
+    second: PlayStation 3 - Persona 5 - Battle JPN_106
+  - first:
+      213: 21300214
+    second: PlayStation 3 - Persona 5 - Battle JPN_107
+  - first:
+      213: 21300216
+    second: PlayStation 3 - Persona 5 - Battle JPN_108
+  - first:
+      213: 21300218
+    second: PlayStation 3 - Persona 5 - Battle JPN_109
+  - first:
+      213: 21300220
+    second: PlayStation 3 - Persona 5 - Battle JPN_110
+  - first:
+      213: 21300222
+    second: PlayStation 3 - Persona 5 - Battle JPN_111
+  - first:
+      213: 21300224
+    second: PlayStation 3 - Persona 5 - Battle JPN_112
+  - first:
+      213: 21300226
+    second: PlayStation 3 - Persona 5 - Battle JPN_113
+  - first:
+      213: 21300228
+    second: PlayStation 3 - Persona 5 - Battle JPN_114
+  - first:
+      213: 21300230
+    second: PlayStation 3 - Persona 5 - Battle JPN_115
+  - first:
+      213: 21300232
+    second: PlayStation 3 - Persona 5 - Battle JPN_116
+  - first:
+      213: 21300234
+    second: PlayStation 3 - Persona 5 - Battle JPN_117
+  - first:
+      213: 21300236
+    second: PlayStation 3 - Persona 5 - Battle JPN_118
+  - first:
+      213: 21300238
+    second: PlayStation 3 - Persona 5 - Battle JPN_119
+  - first:
+      213: 21300240
+    second: PlayStation 3 - Persona 5 - Battle JPN_120
+  - first:
+      213: 21300242
+    second: PlayStation 3 - Persona 5 - Battle JPN_121
+  - first:
+      213: 21300244
+    second: PlayStation 3 - Persona 5 - Battle JPN_122
+  - first:
+      213: 21300246
+    second: PlayStation 3 - Persona 5 - Battle JPN_123
+  - first:
+      213: 21300248
+    second: PlayStation 3 - Persona 5 - Battle JPN_124
+  - first:
+      213: 21300250
+    second: PlayStation 3 - Persona 5 - Battle JPN_125
+  - first:
+      213: 21300252
+    second: PlayStation 3 - Persona 5 - Battle JPN_126
+  - first:
+      213: 21300254
+    second: PlayStation 3 - Persona 5 - Battle JPN_127
+  - first:
+      213: 21300256
+    second: PlayStation 3 - Persona 5 - Battle JPN_128
+  - first:
+      213: 21300258
+    second: PlayStation 3 - Persona 5 - Battle JPN_129
+  - first:
+      213: 21300260
+    second: PlayStation 3 - Persona 5 - Battle JPN_130
+  - first:
+      213: 21300262
+    second: PlayStation 3 - Persona 5 - Battle JPN_131
+  - first:
+      213: 21300264
+    second: PlayStation 3 - Persona 5 - Battle JPN_132
+  - first:
+      213: 21300266
+    second: PlayStation 3 - Persona 5 - Battle JPN_133
+  - first:
+      213: 21300268
+    second: PlayStation 3 - Persona 5 - Battle JPN_134
+  - first:
+      213: 21300270
+    second: PlayStation 3 - Persona 5 - Battle JPN_135
+  - first:
+      213: 21300272
+    second: PlayStation 3 - Persona 5 - Battle JPN_136
+  - first:
+      213: 21300274
+    second: PlayStation 3 - Persona 5 - Battle JPN_137
+  - first:
+      213: 21300276
+    second: PlayStation 3 - Persona 5 - Battle JPN_138
+  - first:
+      213: 21300278
+    second: PlayStation 3 - Persona 5 - Battle JPN_139
+  - first:
+      213: 21300280
+    second: PlayStation 3 - Persona 5 - Battle JPN_140
+  - first:
+      213: 21300282
+    second: PlayStation 3 - Persona 5 - Battle JPN_141
+  - first:
+      213: 21300284
+    second: PlayStation 3 - Persona 5 - Battle JPN_142
+  - first:
+      213: 21300286
+    second: PlayStation 3 - Persona 5 - Battle JPN_143
+  - first:
+      213: 21300288
+    second: PlayStation 3 - Persona 5 - Battle JPN_144
+  - first:
+      213: 21300290
+    second: PlayStation 3 - Persona 5 - Battle JPN_145
+  - first:
+      213: 21300292
+    second: PlayStation 3 - Persona 5 - Battle JPN_146
+  - first:
+      213: 21300294
+    second: PlayStation 3 - Persona 5 - Battle JPN_147
+  - first:
+      213: 21300296
+    second: PlayStation 3 - Persona 5 - Battle JPN_148
+  - first:
+      213: 21300298
+    second: PlayStation 3 - Persona 5 - Battle JPN_149
+  - first:
+      213: 21300300
+    second: PlayStation 3 - Persona 5 - Battle JPN_150
+  - first:
+      213: 21300302
+    second: PlayStation 3 - Persona 5 - Battle JPN_151
+  - first:
+      213: 21300304
+    second: PlayStation 3 - Persona 5 - Battle JPN_152
+  - first:
+      213: 21300306
+    second: PlayStation 3 - Persona 5 - Battle JPN_153
+  - first:
+      213: 21300308
+    second: PlayStation 3 - Persona 5 - Battle JPN_154
+  - first:
+      213: 21300310
+    second: PlayStation 3 - Persona 5 - Battle JPN_155
+  - first:
+      213: 21300312
+    second: PlayStation 3 - Persona 5 - Battle JPN_156
+  - first:
+      213: 21300314
+    second: PlayStation 3 - Persona 5 - Battle JPN_157
+  - first:
+      213: 21300316
+    second: PlayStation 3 - Persona 5 - Battle JPN_158
+  - first:
+      213: 21300318
+    second: PlayStation 3 - Persona 5 - Battle JPN_159
+  - first:
+      213: 21300320
+    second: PlayStation 3 - Persona 5 - Battle JPN_160
+  - first:
+      213: 21300322
+    second: PlayStation 3 - Persona 5 - Battle JPN_161
+  - first:
+      213: 21300324
+    second: PlayStation 3 - Persona 5 - Battle JPN_162
+  - first:
+      213: 21300326
+    second: PlayStation 3 - Persona 5 - Battle JPN_163
+  - first:
+      213: 21300328
+    second: PlayStation 3 - Persona 5 - Battle JPN_164
+  - first:
+      213: 21300330
+    second: PlayStation 3 - Persona 5 - Battle JPN_165
+  - first:
+      213: 21300332
+    second: PlayStation 3 - Persona 5 - Battle JPN_166
+  - first:
+      213: 21300334
+    second: PlayStation 3 - Persona 5 - Battle JPN_167
+  - first:
+      213: 21300336
+    second: PlayStation 3 - Persona 5 - Battle JPN_168
+  - first:
+      213: 21300338
+    second: PlayStation 3 - Persona 5 - Battle JPN_169
+  - first:
+      213: 21300340
+    second: PlayStation 3 - Persona 5 - Battle JPN_170
+  - first:
+      213: 21300342
+    second: PlayStation 3 - Persona 5 - Battle JPN_171
+  - first:
+      213: 21300344
+    second: PlayStation 3 - Persona 5 - Battle JPN_172
+  - first:
+      213: 21300346
+    second: PlayStation 3 - Persona 5 - Battle JPN_173
+  - first:
+      213: 21300348
+    second: PlayStation 3 - Persona 5 - Battle JPN_174
+  - first:
+      213: 21300350
+    second: PlayStation 3 - Persona 5 - Battle JPN_175
+  - first:
+      213: 21300352
+    second: PlayStation 3 - Persona 5 - Battle JPN_176
+  - first:
+      213: 21300354
+    second: PlayStation 3 - Persona 5 - Battle JPN_177
+  - first:
+      213: 21300356
+    second: PlayStation 3 - Persona 5 - Battle JPN_178
+  - first:
+      213: 21300358
+    second: PlayStation 3 - Persona 5 - Battle JPN_179
+  - first:
+      213: 21300360
+    second: PlayStation 3 - Persona 5 - Battle JPN_180
+  - first:
+      213: 21300362
+    second: PlayStation 3 - Persona 5 - Battle JPN_181
+  - first:
+      213: 21300364
+    second: PlayStation 3 - Persona 5 - Battle JPN_182
+  - first:
+      213: 21300366
+    second: PlayStation 3 - Persona 5 - Battle JPN_183
+  - first:
+      213: 21300368
+    second: PlayStation 3 - Persona 5 - Battle JPN_184
+  - first:
+      213: 21300370
+    second: PlayStation 3 - Persona 5 - Battle JPN_185
+  - first:
+      213: 21300372
+    second: PlayStation 3 - Persona 5 - Battle JPN_186
+  - first:
+      213: 21300374
+    second: PlayStation 3 - Persona 5 - Battle JPN_187
+  - first:
+      213: 21300376
+    second: PlayStation 3 - Persona 5 - Battle JPN_188
+  - first:
+      213: 21300378
+    second: PlayStation 3 - Persona 5 - Battle JPN_189
+  - first:
+      213: 21300380
+    second: PlayStation 3 - Persona 5 - Battle JPN_190
+  - first:
+      213: 21300382
+    second: PlayStation 3 - Persona 5 - Battle JPN_191
+  - first:
+      213: 21300384
+    second: PlayStation 3 - Persona 5 - Battle JPN_192
+  - first:
+      213: 21300386
+    second: PlayStation 3 - Persona 5 - Battle JPN_193
+  - first:
+      213: 21300388
+    second: PlayStation 3 - Persona 5 - Battle JPN_194
+  - first:
+      213: 21300390
+    second: PlayStation 3 - Persona 5 - Battle JPN_195
+  - first:
+      213: 21300392
+    second: PlayStation 3 - Persona 5 - Battle JPN_196
+  - first:
+      213: 21300394
+    second: PlayStation 3 - Persona 5 - Battle JPN_197
+  - first:
+      213: 21300396
+    second: PlayStation 3 - Persona 5 - Battle JPN_198
+  - first:
+      213: 21300398
+    second: PlayStation 3 - Persona 5 - Battle JPN_199
+  - first:
+      213: 21300400
+    second: PlayStation 3 - Persona 5 - Battle JPN_200
+  - first:
+      213: 21300402
+    second: PlayStation 3 - Persona 5 - Battle JPN_201
+  - first:
+      213: 21300404
+    second: PlayStation 3 - Persona 5 - Battle JPN_202
+  - first:
+      213: 21300406
+    second: PlayStation 3 - Persona 5 - Battle JPN_203
+  - first:
+      213: 21300408
+    second: PlayStation 3 - Persona 5 - Battle JPN_204
+  - first:
+      213: 21300410
+    second: PlayStation 3 - Persona 5 - Battle JPN_205
+  - first:
+      213: 21300412
+    second: PlayStation 3 - Persona 5 - Battle JPN_206
+  - first:
+      213: 21300414
+    second: PlayStation 3 - Persona 5 - Battle JPN_207
+  - first:
+      213: 21300416
+    second: PlayStation 3 - Persona 5 - Battle JPN_208
+  - first:
+      213: 21300418
+    second: PlayStation 3 - Persona 5 - Battle JPN_209
+  - first:
+      213: 21300420
+    second: PlayStation 3 - Persona 5 - Battle JPN_210
+  - first:
+      213: 21300422
+    second: PlayStation 3 - Persona 5 - Battle JPN_211
+  - first:
+      213: 21300424
+    second: PlayStation 3 - Persona 5 - Battle JPN_212
+  - first:
+      213: 21300426
+    second: PlayStation 3 - Persona 5 - Battle JPN_213
+  - first:
+      213: 21300428
+    second: PlayStation 3 - Persona 5 - Battle JPN_214
+  - first:
+      213: 21300430
+    second: PlayStation 3 - Persona 5 - Battle JPN_215
+  - first:
+      213: 21300432
+    second: PlayStation 3 - Persona 5 - Battle JPN_216
+  - first:
+      213: 21300434
+    second: PlayStation 3 - Persona 5 - Battle JPN_217
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Tizen
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Samsung TV
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1299
+        width: 106
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1295
+        width: 89
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1293
+        width: 110
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1293
+        width: 110
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_4
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1296
+        width: 110
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_5
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1305
+        width: 120
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_6
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1294
+        width: 104
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_7
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1297
+        width: 97
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_8
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1480
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_9
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1487
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_10
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1490
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_11
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1496
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_12
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1452
+        width: 87
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_13
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1449
+        width: 131
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_14
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1418
+        width: 69
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_15
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1415
+        width: 152
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_16
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1389
+        width: 203
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_17
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1355
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_18
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1355
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_19
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1354
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_20
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1354
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_21
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1356
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_22
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1354
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_23
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1355
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_24
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1355
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_25
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 1354
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_26
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1354
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_27
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1285
+        width: 220
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_28
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1298
+        width: 84
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_29
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1303
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_30
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1301
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_31
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1300
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_32
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1321
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_33
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1046
+        width: 88
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_34
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1206
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_35
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1194
+        width: 101
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_36
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1206
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_37
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1206
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_38
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1225
+        width: 108
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_39
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1254
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_40
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1276
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_41
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1222
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1050
+        width: 122
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_43
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1223
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_44
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1260
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_45
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1043
+        width: 316
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_46
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1073
+        width: 190
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_47
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1129
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_48
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1149
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_49
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1161
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_50
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1147
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_51
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1124
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_52
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1141
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_53
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1082
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_54
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1057
+        width: 96
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_55
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1046
+        width: 245
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_56
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 900
+        width: 513
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_57
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 921
+        width: 64
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_58
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 921
+        width: 64
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_59
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 921
+        width: 63
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_60
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 921
+        width: 64
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_61
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 921
+        width: 62
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_62
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 827
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_63
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 826
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_64
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 828
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_65
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 826
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_66
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 825
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_67
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 825
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_68
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 825
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_69
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 825
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_70
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 822
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_71
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 825
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_72
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 730
+        width: 520
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_73
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 758
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_74
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 757
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_75
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 758
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_76
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 757
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_77
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 756
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_78
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 756
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_79
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 756
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_80
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 756
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_81
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 754
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_82
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 756
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_83
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 649
+        width: 190
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_84
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 690
+        width: 169
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_85
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 703
+        width: 93
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_86
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 577
+        width: 179
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_87
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 626
+        width: 192
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_88
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 623
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_89
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 623
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_90
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 624
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_91
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 610
+        width: 156
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_92
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 625
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_93
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 625
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_94
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 625
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_95
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 544
+        width: 240
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_96
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 544
+        width: 263
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_97
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 542
+        width: 99
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_98
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 542
+        width: 98
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_99
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 543
+        width: 98
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_100
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 542
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_101
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 550
+        width: 110
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_102
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 519
+        width: 1022
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_103
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 461
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_104
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 461
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_105
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 462
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_106
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 461
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_107
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 468
+        width: 73
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_108
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 469
+        width: 73
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_109
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 460
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_110
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 462
+        width: 81
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_111
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 469
+        width: 93
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_112
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 460
+        width: 170
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_113
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 459
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_114
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 460
+        width: 75
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_115
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 468
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_116
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 467
+        width: 70
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_117
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 464
+        width: 118
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_118
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 484
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_119
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 365
+        width: 111
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_120
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 433
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_121
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 431
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_122
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 443
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_123
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 431
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_124
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 431
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_125
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 432
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_126
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 433
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_127
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 432
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_128
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 409
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_129
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 305
+        width: 19
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_130
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 399
+        width: 112
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_131
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 393
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_132
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 401
+        width: 138
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_133
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 402
+        width: 126
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_134
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 404
+        width: 138
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_135
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 402
+        width: 134
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_136
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 404
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03405410000000000800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_137
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 432
+        width: 88
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23405410000000000800000000000000
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_138
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 391
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43405410000000000800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_139
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 396
+        width: 72
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63405410000000000800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_140
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 399
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_141
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 402
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3405410000000000800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_142
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 397
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3405410000000000800000000000000
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_143
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 305
+        width: 75
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3405410000000000800000000000000
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_144
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 397
+        width: 98
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04405410000000000800000000000000
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_145
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 314
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24405410000000000800000000000000
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_146
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 316
+        width: 94
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44405410000000000800000000000000
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_147
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 341
+        width: 92
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64405410000000000800000000000000
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_148
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 333
+        width: 121
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84405410000000000800000000000000
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_149
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 329
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4405410000000000800000000000000
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_150
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 332
+        width: 169
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4405410000000000800000000000000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_151
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 333
+        width: 106
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4405410000000000800000000000000
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_152
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 340
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05405410000000000800000000000000
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_153
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 350
+        width: 73
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25405410000000000800000000000000
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_154
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 340
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45405410000000000800000000000000
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_155
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 339
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65405410000000000800000000000000
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_156
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 342
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85405410000000000800000000000000
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_157
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 369
+        width: 114
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5405410000000000800000000000000
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_158
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 324
+        width: 71
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5405410000000000800000000000000
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_159
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 325
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5405410000000000800000000000000
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_160
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 340
+        width: 103
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06405410000000000800000000000000
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_161
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 337
+        width: 80
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26405410000000000800000000000000
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_162
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 278
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46405410000000000800000000000000
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_163
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 278
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66405410000000000800000000000000
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_164
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 283
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86405410000000000800000000000000
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_165
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 159
+        width: 62
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6405410000000000800000000000000
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_166
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 177
+        width: 65
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6405410000000000800000000000000
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_167
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 210
+        width: 36
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6405410000000000800000000000000
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_168
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 277
+        width: 201
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07405410000000000800000000000000
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_169
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 287
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27405410000000000800000000000000
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_170
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 288
+        width: 71
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47405410000000000800000000000000
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_171
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 285
+        width: 118
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67405410000000000800000000000000
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_172
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 293
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87405410000000000800000000000000
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_173
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 293
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7405410000000000800000000000000
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_174
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 292
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7405410000000000800000000000000
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_175
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 291
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7405410000000000800000000000000
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_176
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 299
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08405410000000000800000000000000
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_177
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 299
+        width: 120
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28405410000000000800000000000000
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_178
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 297
+        width: 136
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48405410000000000800000000000000
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_179
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 189
+        width: 81
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68405410000000000800000000000000
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_180
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 127
+        width: 37
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88405410000000000800000000000000
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_181
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 256
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8405410000000000800000000000000
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_182
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 242
+        width: 123
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8405410000000000800000000000000
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_183
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 236
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8405410000000000800000000000000
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_184
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 205
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09405410000000000800000000000000
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_185
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 218
+        width: 156
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29405410000000000800000000000000
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_186
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 259
+        width: 92
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49405410000000000800000000000000
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_187
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 259
+        width: 82
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69405410000000000800000000000000
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_188
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 265
+        width: 106
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89405410000000000800000000000000
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_189
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 259
+        width: 115
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9405410000000000800000000000000
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_190
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 263
+        width: 95
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9405410000000000800000000000000
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_191
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 163
+        width: 207
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9405410000000000800000000000000
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_192
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 197
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a405410000000000800000000000000
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_193
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 221
+        width: 157
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a405410000000000800000000000000
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_194
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 85
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a405410000000000800000000000000
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_195
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 99
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a405410000000000800000000000000
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_196
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 123
+        width: 93
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a405410000000000800000000000000
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_197
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 124
+        width: 150
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa405410000000000800000000000000
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_198
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 159
+        width: 148
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca405410000000000800000000000000
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_199
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 93
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea405410000000000800000000000000
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_200
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 87
+        width: 89
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b405410000000000800000000000000
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_201
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 106
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b405410000000000800000000000000
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_202
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 88
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b405410000000000800000000000000
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_203
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 53
+        width: 180
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b405410000000000800000000000000
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_204
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 5
+        width: 63
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b405410000000000800000000000000
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_205
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 44
+        width: 127
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab405410000000000800000000000000
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_206
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 85
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb405410000000000800000000000000
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_207
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 72
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb405410000000000800000000000000
+      internalID: 21300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_208
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 59
+        width: 115
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c405410000000000800000000000000
+      internalID: 21300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_209
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 57
+        width: 116
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c405410000000000800000000000000
+      internalID: 21300418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_210
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 10
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c405410000000000800000000000000
+      internalID: 21300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_211
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 9
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c405410000000000800000000000000
+      internalID: 21300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_212
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 8
+        width: 126
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c405410000000000800000000000000
+      internalID: 21300424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_213
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 5
+        width: 110
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac405410000000000800000000000000
+      internalID: 21300426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_214
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 17
+        width: 103
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc405410000000000800000000000000
+      internalID: 21300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_215
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 5
+        width: 131
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec405410000000000800000000000000
+      internalID: 21300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_216
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 5
+        width: 149
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d405410000000000800000000000000
+      internalID: 21300432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 3 - Persona 5 - Battle JPN_217
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 5
+        width: 102
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d405410000000000800000000000000
+      internalID: 21300434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

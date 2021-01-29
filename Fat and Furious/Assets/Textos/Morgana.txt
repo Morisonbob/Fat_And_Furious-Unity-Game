@@ -1,0 +1,5 @@
+﻿Eu sou o Morgana do Debug.
+Isso aqui é pra emular uma conversa entre dois personagens.
+Se o pause at estiver setado para 3, é aqui que minha fala deve parar e ir para a Futaba.
+E aqui eu volto a falar.
+Aqui se encerra novamente.

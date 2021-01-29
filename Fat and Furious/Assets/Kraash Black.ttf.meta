@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9248900ef14980040b5daafa90c16722
+timeCreated: 1497902805
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kraash Black
+  fontNames:
+  - Kraash Black
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
